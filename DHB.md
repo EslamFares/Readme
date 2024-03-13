@@ -11,8 +11,6 @@
 <p float="left">
   <img src="https://i.ibb.co/kXt61RS/1-portrait.png" width="80" />
   <img src="https://i.ibb.co/9VrtgHx/2-portrait.png" width="80" />
-  <img src="" width="80" /> 
-  <img src="" width="80" /> 
 
 </p>
 
