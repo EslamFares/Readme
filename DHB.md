@@ -9,7 +9,7 @@
 <h4>Google play<img align="center" height="20" src="https://www.codot.gov/safety/impaired-driving/planahead/2011-assets/android-market-icon.png/@@images/image"></h4>
 
 <p float="left">
-<a>https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq</a>
+<a href="https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq">(DHB App) دهب </a>
 
 </p>
 
