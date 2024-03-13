@@ -1,4 +1,5 @@
-# DHB App
+<h1> <img align="center" height="50" src="https://i.ibb.co/NFPxx9n/icon.png">  DHB App </h1> 
+
 <h4>To display currency rates and gold prices in real time<h4>
 • Economic news <br />
 • Bullion prices for gold companies <br />
@@ -9,7 +10,7 @@
 <h4>Google play<img align="center" height="20" src="https://www.codot.gov/safety/impaired-driving/planahead/2011-assets/android-market-icon.png/@@images/image"></h4>
 
 <p float="left">
-<a href="https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq">(DHB App) دهب </a>
+<a href="https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq">(DHB App) دهب</a>
 
 </p>
 
