@@ -6,6 +6,13 @@
 • Gold price calculator by manufacturing<br />
 • Your savings portfolio of currencies and gold in cashback and view the total gain or loss when purchasing and the real-time price now<br />
 
+<h4>Google play<img align="center" height="20" src="https://www.codot.gov/safety/impaired-driving/planahead/2011-assets/android-market-icon.png/@@images/image"></h4>
+
+<p float="left">
+<a>https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq</a>
+
+</p>
+
 <h4>Home Screen  <img align="center" height="20" src="https://w7.pngwing.com/pngs/848/762/png-transparent-computer-icons-home-house-home-angle-building-rectangle-thumbnail.png"></h4>
 
 <p float="left">
