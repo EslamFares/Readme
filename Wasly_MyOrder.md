@@ -1,6 +1,6 @@
 <h1> <img align="center" height="50" src="https://i.ibb.co/0qYFKx8/icon.png">  Wasly My Order </h1> 
 
- <h2> <img align="center" height="50" src=""> Project goals</h2>
+ <h2> <img align="center" height="20" src="https://i.ibb.co/7CN2j2V/splash-img.png"> Project goals</h2>
 
 <h4>To view nearby restaurants and offers on food<h4>
 • Choose the area you want to deliver to<br />
