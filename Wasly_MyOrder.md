@@ -14,10 +14,8 @@
 <h4>Auth  <img align="center" height="20" src="https://icons.veryicon.com/png/o/miscellaneous/simple-line-icon/authentication-16.png"></h4>
 
 <p float="left">
-  <img src="https://i.ibb.co/SBRsKtB/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/K2RkyQ1/2.png
-  " width="80" />
+  <img src="https://i.ibb.co/SBRsKtB/1.png" width="80" />
+  <img src="https://i.ibb.co/K2RkyQ1/2.png" width="80" />
   <img src="https://i.ibb.co/nC0F6nn/3.png" width="80" />
 </p>
 
@@ -29,28 +27,22 @@
 
 <h4>Drawer <img align="center" height="20" src="https://png.pngtree.com/png-vector/20190419/ourmid/pngtree-vector-list-icon-png-image_956420.jpg"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/d405GWY/1.png
-  " width="80" />
+  <img src="https://i.ibb.co/d405GWY/1.png" width="80" />
   <img src="https://i.ibb.co/wgtZqx8/2.png" width="80" />
 </p>
 
 <h4>Filter  <img align="center" height="20" src="https://cdn-icons-png.flaticon.com/512/3879/3879871.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/4Nbx0bG/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/mvkssRz/2.png
-  " width="80" />
+  <img src="https://i.ibb.co/4Nbx0bG/1.png" width="80" />
+  <img src="https://i.ibb.co/mvkssRz/2.png" width="80" />
   <img src="https://i.ibb.co/80BYmpP/3.png" width="80" />
 </p>
 
 <h4>Forget Password  <img align="center" height="20" src="https://cdn-icons-png.freepik.com/512/6357/6357068.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/6DgHxzy/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/9rkWRBg/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/1f06L08/3.png
-  " width="80" />
+  <img src="https://i.ibb.co/6DgHxzy/1.png" width="80" />
+  <img src="https://i.ibb.co/9rkWRBg/2.png" width="80" />
+  <img src="https://i.ibb.co/1f06L08/3.png" width="80" />
   <img src="https://i.ibb.co/RT7qpPT/4.png" width="80" />
 </p>
 
@@ -61,10 +53,8 @@
 
 <h4>Home <img align="center" height="20" src="https://cdn-icons-png.freepik.com/512/5973/5973800.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/sJBr03h/1.png
-  "width="80" />
-  <img src="https://i.ibb.co/sJBr03h/1.png
-  " width="80" />
+  <img src="https://i.ibb.co/sJBr03h/1.png"width="80" />
+  <img src="https://i.ibb.co/sJBr03h/1.png" width="80" />
 </p>
 
 
@@ -101,12 +91,9 @@
 
 <h4>Payment <img align="center" height="20" src="https://cdn-icons-png.flaticon.com/512/4108/4108843.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/km1YDVN/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/S0d6vZ5/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/r6ptFBp/3.png
-  " width="80" />
+  <img src="https://i.ibb.co/km1YDVN/1.png" width="80" />
+  <img src="https://i.ibb.co/S0d6vZ5/2.png" width="80" />
+  <img src="https://i.ibb.co/r6ptFBp/3.png" width="80" />
   <img src="https://i.ibb.co/CbthCNS/4.png" width="80" />
 </p>
 
@@ -124,12 +111,9 @@
 
 <h4>Profile <img align="center" height="20" src="https://cdn-icons-png.flaticon.com/512/5987/5987424.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/X7T4zRr/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/hM3S17M/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/xgz2ZL8/3.png
-  " width="80" />
+  <img src="https://i.ibb.co/X7T4zRr/1.png" width="80" />
+  <img src="https://i.ibb.co/hM3S17M/2.png" width="80" />
+  <img src="https://i.ibb.co/xgz2ZL8/3.png" width="80" />
   <img src="https://i.ibb.co/D1j7LQ0/4.png" width="80" />
 </p>
 
@@ -138,10 +122,8 @@
 
 <h4>Resturant <img align="center" height="20" src="https://cdn-icons-png.freepik.com/512/8280/8280802.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/j6XNs8d/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/gtVjyfD/2.png
-  " width="80" />
+  <img src="https://i.ibb.co/j6XNs8d/1.png" width="80" />
+  <img src="https://i.ibb.co/gtVjyfD/2.png" width="80" />
   <img src="https://i.ibb.co/KbWTkjW/3.png" width="80" />
 </p>
 
@@ -150,8 +132,7 @@
 
 <h4>Setting <img align="center" height="20" src="https://static.vecteezy.com/system/resources/thumbnails/022/451/244/small_2x/settings-icon-gear-3d-render-png.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/BBnN6j0/1.png
-  " width="80" />
+  <img src="https://i.ibb.co/BBnN6j0/1.png" width="80" />
   <img src="https://i.ibb.co/7ksYXdf/2.png" width="80" />
 </p>
 

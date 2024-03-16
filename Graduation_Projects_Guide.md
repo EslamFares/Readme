@@ -27,10 +27,8 @@
 <h4>Auth <img align="center" height="20" src="https://icons.veryicon.com/png/o/miscellaneous/simple-line-icon/authentication-16.png"></h4>
 <p float="left">
   <img src="https://i.ibb.co/5xMYyLD/1.png" width="80" />
-  <img src="https://i.ibb.co/ySC14h0/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/m6wZp3D/3.png
-  " width="80" />
+  <img src="https://i.ibb.co/ySC14h0/2.png" width="80" />
+  <img src="https://i.ibb.co/m6wZp3D/3.png" width="80" />
   <img src="https://i.ibb.co/pfKjQmM/4.png" width="80" />
 </p>
 
@@ -42,14 +40,10 @@
 
 <h4>Open Project <img align="center" height="20" src="https://icons.veryicon.com/png/o/miscellaneous/simple-line-icon/authentication-16.png"></h4>
 <p float="left">
-  <img src="https://i.ibb.co/pXPgWWN/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/KXjhrNm/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/tJ01H8h/3.png
-  " width="80" />
-  <img src="https://i.ibb.co/92QBqx8/4.png
-  " width="80" />
+  <img src="https://i.ibb.co/pXPgWWN/1.png" width="80" />
+  <img src="https://i.ibb.co/KXjhrNm/2.png" width="80" />
+  <img src="https://i.ibb.co/tJ01H8h/3.png" width="80" />
+  <img src="https://i.ibb.co/92QBqx8/4.png" width="80" />
   <img src="https://i.ibb.co/TP2bXty/5.png" width="80" />
 </p>
 
@@ -58,16 +52,11 @@
 <h4>Inspire <img align="center" height="20" src="https://cdn-icons-png.flaticon.com/512/1454/1454948.png"></h4>
 
 <p float="left">
-  <img src="https://i.ibb.co/kcz9HT7/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/b28CWzX/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/fk45NGV/3.png
-  " width="80" />
-  <img src="https://i.ibb.co/xjQJKGx/4.png
-  " width="80" />
-  <img src="https://i.ibb.co/s5HkMCM/5.png
-  " width="80" />
+  <img src="https://i.ibb.co/kcz9HT7/1.png" width="80" />
+  <img src="https://i.ibb.co/b28CWzX/2.png" width="80" />
+  <img src="https://i.ibb.co/fk45NGV/3.png" width="80" />
+  <img src="https://i.ibb.co/xjQJKGx/4.png" width="80" />
+  <img src="https://i.ibb.co/s5HkMCM/5.png" width="80" />
   <img src="https://i.ibb.co/C6ftn0w/6.png" width="80" />
 
 </p>
@@ -90,12 +79,9 @@
 <h4>Market <img align="center" height="20" src="https://cdn-icons-png.flaticon.com/512/5363/5363916.png"></h4>
 
 <p float="left">
-  <img src="https://i.ibb.co/WgkjjdY/1.png
-  " width="80" />
-  <img src="https://i.ibb.co/3rDMqZW/2.png
-  " width="80" />
-  <img src="https://i.ibb.co/bL3GbrP/3.png
-  " width="80" />
+  <img src="https://i.ibb.co/WgkjjdY/1.png" width="80" />
+  <img src="https://i.ibb.co/3rDMqZW/2.png" width="80" />
+  <img src="https://i.ibb.co/bL3GbrP/3.png" width="80" />
   <img src="https://i.ibb.co/xfyQyvv/4.png" width="80" />
 
 </p>
