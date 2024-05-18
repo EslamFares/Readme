@@ -1,4 +1,10 @@
 <h1> <img align="center" height="50" src="https://i.ibb.co/0qYFKx8/icon.png">  Wasly My Order </h1> 
+<p align="center">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/deleivery%20Mockup%2014.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/delivery%20Mockup%2011.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+</p>
+
+## Restaurant Delivery
 
  <h2> <img align="center" height="20" src="https://i.ibb.co/7CN2j2V/splash-img.png"> Project goals</h2>
 
