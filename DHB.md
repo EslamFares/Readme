@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/dhb%20Mockup%2008.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/dhb%20Mockup%2006.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+</p>
+
 <h1> <img align="center" height="50" src="https://i.ibb.co/NFPxx9n/icon.png">  DHB App </h1> 
 
 <h4>To display currency rates and gold prices in real time<h4>
