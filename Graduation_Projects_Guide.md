@@ -1,4 +1,8 @@
-<h1> <img align="center" height="50" src="https://i.ibb.co/P14Cdmx/logo4.png"> Graduation projects Guide App</h1>
+<h1> <img align="center" height="50" src="https://i.ibb.co/P14Cdmx/logo4.png"> Scientific Articles Summary</h1>
+<p align="center">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/gradution%20Mockup%2006.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+  <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/gradution%20Mockup%2013.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
+</p>
 
  <h2> <img align="center" height="50" src="https://i.ibb.co/whCbxWp/logo.png"> Project goals</h2>
 
